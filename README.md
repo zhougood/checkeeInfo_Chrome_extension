@@ -18,16 +18,16 @@ A Chrome extension that adds filtering functionality to the checkee.info website
 
 ## Usage
 
-1. Navigate to any page on checkee.info
+1. Navigate to any page on [checkee.info](https://checkee.info)
 2. Look for the filter dropdown above the visa data table
-3. Select a visa type from the dropdown to filter the table
+3. Select a visa type from the dropdown to filter the table and get a summary chart
 4. Select "All Visa Types" to show all entries again
 
 ## Files
 
 - `manifest.json`: Extension configuration
 - `content.js`: Main functionality implementation
-- `styles.css`: Styling for the filter UI
+- `echarts.min.js`: echart JS file
 - `icon48.png` and `icon128.png`: Extension icons
 
 ## Development
