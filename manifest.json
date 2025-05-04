@@ -1,0 +1,19 @@
+{
+  "manifest_version": 3,
+  "name": "Checkee.info Visa Filter",
+  "version": "1.0",
+  "description": "Adds filtering functionality to checkee.info visa data table",
+  "permissions": ["activeTab"],
+  "content_scripts": [
+    {
+      "matches": [
+        "*://*.checkee.info/*"
+      ],
+      "js": ["echarts.min.js", "content.js"]
+    }
+  ],
+  "icons": {
+    "48": "icon48.png",
+    "128": "icon128.png"
+  }
+} 
