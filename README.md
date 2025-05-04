@@ -22,6 +22,7 @@ A Chrome extension that adds filtering functionality to the checkee.info website
 2. Look for the filter dropdown above the visa data table
 3. Select a visa type from the dropdown to filter the table and get a summary chart
 4. Select "All Visa Types" to show all entries again
+<img width="1818" alt="Screenshot 2025-05-04 at 4 37 04 PM" src="https://github.com/user-attachments/assets/e8043edd-924b-4d8d-87ef-a77ea0cbd6e4" />
 
 ## Files
 
